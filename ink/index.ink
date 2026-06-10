@@ -21,7 +21,7 @@ VAR DEBUG = false
 
 // ---------- START
 === start_index ===
-This is a work in progress. There are TONS of holes and dialogue not done –  we are actively working to fill. In the meantime, feel free to play it. # CLASS: non-datapad-action
+This is a work in progress. There are TONS of holes and dialogue that still needs work. In the meantime, feel free to play it. # CLASS: non-datapad-action
 Since you not viewing this on a Datapad – and we don't have things like an M-Band, Ship Console or an Engineering Room etc. to move the story along – we had to make a few accommodations to interact here. # CLASS: non-datapad-action
 Items in italics (like this text) are utilitarian only and not found in the Datapad experience. # CLASS: non-datapad-action
 Finally, to jump to a different story path, click "Home" at the top right of any other screen. # CLASS: non-datapad-action

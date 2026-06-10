@@ -1,4 +1,5 @@
-Welcome.
+# Welcome
+
 This project is documenting the Datapad story aboard the Halcyon starcruiser.
 
 Please PM the videos to me or I can setup a dropbox, gdrive or whatever you need.
@@ -8,3 +9,7 @@ We're working on creating a full dialogue of all scenarios and could really use 
 Take a look at https://tcconway.github.io/swgs-datapad-experience/html/index.html
 
 Thanks!
+
+## Tools
+
+This is written using https://www.inklestudios.com/ink/
